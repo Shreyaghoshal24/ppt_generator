@@ -4,15 +4,15 @@ A React application that generates PowerPoint presentations using the pptxgenjs 
 
 ## Tech Stack
 
-**Client:** React
-**Libraries:** pptxgenjs 
-**Styles:** Tailwind CSS
+- **Client:** React
+- **Libraries:** pptxgenjs 
+- **Styles:** Tailwind CSS
 
-## Tech Stack
+## Getting Started
 
-### To clone the repository to your local: https://github.com/Shreyaghoshal24/ppt_generator.git
+1. To clone the repository to your local: https://github.com/Shreyaghoshal24/ppt_generator.git
 
-##  Change into the project directory: cd client
+2. Change into the project directory: cd client
 
 
 ## Setup Application
